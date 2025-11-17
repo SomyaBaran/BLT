@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://owaspblt.org">🌐 Website</a> •
-  <a href="https://github.com/OWASP-BLT/BLT/blob/main/CONTRIBUTING.md">📖 Contributing Guide</a> •
-  <a href="https://owasp.org/slack/invite">💬 Join Slack</a> •
+  <a href="https://owaspblt.org"> Website</a> •
+  <a href="https://github.com/OWASP-BLT/BLT/blob/main/CONTRIBUTING.md"> Contributing Guide</a> •
+  <a href="https://owasp.org/slack/invite"> Join Slack</a> •
   <a href="https://github.com/OWASP-BLT/BLT/issues">🐛 Report Bug</a>
 </p>
 
@@ -150,10 +150,13 @@ We welcome contributions from everyone! Whether you're fixing bugs, adding featu
 </a>
 
 ---
-
 ## 📄 License
 
 This project is licensed under the **AGPL-3.0 License** - see the [LICENSE.md](LICENSE.md) file for details.
+
+
+
+
 
 ---
 
@@ -161,3 +164,21 @@ This project is licensed under the **AGPL-3.0 License** - see the [LICENSE.md](L
   <strong>⭐ Star this repository if you find it helpful!</strong><br>
   Made with ❤️ by the OWASP BLT Community
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+it works
